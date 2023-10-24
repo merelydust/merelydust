@@ -6,5 +6,5 @@
 - 🌱 Visit my [blog](https://merelydust.vercel.app)
 - 📫 How to reach me: River-Lin@outlook.com
 
-![Anurag's GitHub stats](https://github-readme-stats-merelydusts-projects.vercel.app/api?username=merelydust&count_private=true&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats-merelydusts-projects.vercel.app/api/top-langs/?username=merelydust&hide=html,Makefile,Nasl&layout=compact&theme=onedark)](https://github.com/merelydust/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-merelydusts-projects.vercel.app/api?username=merelydust&count_private=true&show_icons=true&theme=onedark&hide_border=true&hide=contribs)
+[![Top Langs](https://github-readme-stats-merelydusts-projects.vercel.app/api/top-langs/?username=merelydust&hide=html,Makefile,Nasl&layout=compact&theme=onedark&hide_border=true)](https://github.com/merelydust/github-readme-stats)
